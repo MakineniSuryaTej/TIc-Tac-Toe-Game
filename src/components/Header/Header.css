@@ -1,0 +1,14 @@
+header h1 {
+  text-align: center;
+  color: #e5e90a;
+  margin: auto;
+  font-size: 3em;
+  text-shadow: #fc0 5px 5px 10px;
+}
+
+header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+}
